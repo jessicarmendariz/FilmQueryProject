@@ -57,7 +57,6 @@ public class DatabaseAccessorObject implements DatabaseAccessor {
 		return film;
 	}
 
-	// fix this fix this fix this fix this
 	@Override
 	public List<Film> findFilmByKeyword(String filmKeyword) {
 		List<Film> films = new ArrayList<Film>();

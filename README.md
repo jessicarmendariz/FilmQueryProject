@@ -18,10 +18,7 @@ For the Film Query Application, multiple technologies were used:
 - Scanner
 - While Loops
 
-Problem:
-
-Solution:
 
 Problem: When the application is running and you use menu option 1 - Search by Film ID - and you enter an ID that doesn't exist the application will return "Film Not Found" and the Main Menu will reappear to allow the user to make another selection. If you selection menu option 2 - Search by Keyword - and you enter a keyword that doesn't match a film, the application will show the Main Menu again and then print the error "Film Not Found". I am searching for a way to print the alert first, and then repeat the Main Menu.
 
-Solution:
+Solution: At this time, I don't have a solution. I tried moving some pieces around but it was breaking my code. Currently, the code and application work. 
